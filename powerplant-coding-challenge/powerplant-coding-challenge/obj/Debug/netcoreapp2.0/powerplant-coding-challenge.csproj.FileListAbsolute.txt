@@ -1,0 +1,3 @@
+C:\Users\mehdi.buyse\source\repos\powerplant-coding-challenge\powerplant-coding-challenge\obj\Debug\netcoreapp2.0\powerplant-coding-challenge.AssemblyInfoInputs.cache
+C:\Users\mehdi.buyse\source\repos\powerplant-coding-challenge\powerplant-coding-challenge\obj\Debug\netcoreapp2.0\powerplant-coding-challenge.AssemblyInfo.cs
+C:\Users\mehdi.buyse\source\repos\powerplant-coding-challenge\powerplant-coding-challenge\obj\Debug\netcoreapp2.0\powerplant-coding-challenge.csproj.CoreCompileInputs.cache
